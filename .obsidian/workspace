@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1° 1-7 agosto.md",
-            "mode": "source"
+            "file": "Matémática.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1° 1-7 agosto.md",
+                "file": "Matémática.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "33b2fa27b68c6944",
   "lastOpenFiles": [
-    "1° 1-7 agosto.md",
+    "Matémática.md",
+    "Matérias.md",
+    "Física.md",
+    "Química.md",
+    "Biologia.md",
+    "ENEM.md",
+    "The First Light.md",
+    "the firts.md",
     "1° Semana 05 - 11 setembro.md",
-    "2° 8-14 agosto.md",
-    "2° semana 12 - 18 setembro.md",
-    "3° 15-21 agosto.md",
-    "3° semana 19 - 25 setembro.md",
-    "4° 22-28 agosto.md",
-    "5° 29-4 setembro.md",
-    "Nova nota aleatória.md",
-    "The First Light.md"
+    "1° 1-7 agosto.md"
   ]
 }

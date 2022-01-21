@@ -1,0 +1,12 @@
+# Coisas para se comprar
+- Forninho elétrico com auto limpante, luz interna, 46 litros o mais e boa potência. Lembrando que Philco e Britânia são a mesma marca.
+- Pressurizador de água
+- Capa para o tablet
+- Cabo USB para o carro Nohon
+- Cabo USB Nohon para carregar o celular
+- Cabo HDMI 2.0 mais básico e bem mais comprido
+- Pesquisar algum adaptador para colocar o HD antigo no lugar do DVD do not.
+- tapetes do HB20 de borracha na rua de aurora e o tapete traseiro do fusion de meu pai tb, que pode ser inteiro ou dois separados
+- comprar borrifador culinário para colocar azeite e oleo pra fritar na airfryer
+- comprar caixa preta de frutas na bartofil
+- comprar pirex para cozinhar na airfryer

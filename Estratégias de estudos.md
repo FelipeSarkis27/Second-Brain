@@ -1,0 +1,33 @@
+- Dividir meu cronograma em assuntos prioritários (com metas) de assuntos de revisão (caso dê tempo), assim eu focarei em meus exercícios e aplicação de conhecimento pré-adquirido e talvez buscado durante o processo de resolução (aprendendo da maneira correta, aplicando o conhecimento para fazer algo que eu não sabia). 
+- serão feitas avaliações semanais de desempenho e se estou dando conta de todas as matérias, não deixando nenhuma de lado, fazendo pequenas alterações na estratégia.
+- serão feitas avaliações mensais sobre minha estratégia de estudos, podendo realizar mudanças maiores na estratégia para o mês seguinte.
+- 2 ou 3 meses antes da prova fazer apenas questões e revisões, nada de assunto novo.
+- aulas somente do que eu tenho mais dificuldade, o processo de aprendizagem deve ser feito com esforço da resolução de questões e não de absorver conteúdo através de tópicos ou aulas, pois seria apenas o primeiro domínio do aprendizado.
+- ler textos nota mil do enem, anotar pontos que podem me ajudar em minhas redações, como concordâncias que não imaginava, repertório sociocultural, técnicas de introdução, coesão e coerência, etc. E o mais importante de tudo, praticar tudo o que eu anotar, para que eu não fique apenas no primeiro domínio da aprendizagem.
+- No primeiro momento eu deverei focar em aumentar o meu conhecimento (através da resolução de questões) e só após o segundo semestre de 2022 que eu devo focar no cronômetro.
+- Meus estudos devem ser em ordem crescente de complexidade, então devo fazer todas as questões fáceis sobre determinado assunto e ir aumentando até chegar nas difíceis. Lembrando que as fáceis são as questões que garantirão a minha vaga.
+- Tabela de prioridades de assuntos ENEM do site Tecconcursos: 
+- https://www.tecconcursos.com.br/blog/questoes-de-matematica-do-enem-organizadas-por-assunto/
+- **O descomplica disponibiliza avaliações semanais com 40 questões e 2 Hs, ou seja, 120 min e 3 min por questão, devo fazer 1 avaliação semanal, semanalmente.** Ainda em análise.
+- Realizar uma pré-análise das questões de determinado assunto (perder algumas horas mesmo fazendo isso), essa análise consistirá em: identificar qual parte do assunto cai mais e o que é mais cobrado e estudar isso focadamente na prova, não estudando o assunto por extenso e sim focar naquilo que realmente é cobrado. Fazer revisões disso durante 2 ou 3 dias e após isso cacetar questões, não posso fazer as questões no mesmo dia do estudo, pois isto estará fresco em minha memória e eu teria um aproveitamento superior a 80% que seria errôneo. Após realizar as questões, anotar quais eu errei sobre o assunto e revisar o assunto com base nelas.
+- Ciclo de investigação das questões:
+- ![[Pasted image 20211220222103.png]]
+- Pesquisar quais obras literárias são pertinentes para a prova do ENEM.
+- simulados pra treinar resistência e estratégias de prova e tempo. Treinar postura, procurar a melhor caneta que se encaixa pra mim esferográfica preta transparente.	
+- Quando minha capacidade de resolver as questões estiver melhorando eu vou começar a demorar mais tempo pra resolver as questões do enem. 
+- ![[Pasted image 20211227140600.png]]
+- Corrigir minhas próprias redações encontrando os erros que cometi ou redações de outros.
+- fazer uma auto análise minha para saber quais os meus defeitos que me impedem de estudar com veemência e de realizar algumas de minhas vontades (responsabilidade a longo prazo).
+- Diferença entre adquirir conhecimento e aprender:
+	- Adquirir conhecimento significa absorver determinado conteúdo e saber determinado assunto.
+	- Aprender significa por em prática o conhecimento adquirido para chegar em algum objetivo.
+- Etapas do conhecimento:
+- Domínios cognitivos de baixa ordem
+	- ![[Pasted image 20220120093720.png]]
+	- ![[Pasted image 20220120093809.png]]
+	- ![[Pasted image 20220120093938.png]] 
+- Domínios cognitivos de alta ordem
+	- ![[Pasted image 20220120094043.png]]
+	- ![[Pasted image 20220120094101.png]]
+	- ![[Pasted image 20220120094157.png]]
+- CASO EM ALGUM MOMENTO EU ME PEGUE PENSANDO QUE ESTUDO MAS NÃO APRENDO DEVO ME CRITICAR E ME AVALIAR PARA SABER SE ESTOU APENAS REALIZANDO O PRIMEIRO DOMÍNIO OU SE ESTOU DANDO CONTINUIDADE COM OS DEMAIS PARA APRENDER.   

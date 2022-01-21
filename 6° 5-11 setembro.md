@@ -1,0 +1,7 @@
+1. **Vendas e negociação:** Comportamento do consumidor e sua relação com vendas e negociação; Política de Relacionamento com o Cliente: Resolução n°. 4.539 de 24 de novembro de 2016; Resolução CMN nº 4.860, de 23 de outubro de 2020 que dispõe sobre a constituição e o funcionamento de componente organizacional de ouvidoria pelas instituições financeiras e demais instituições autorizadas a funcionar pelo Banco Central do Brasil.
+2. **Conhecimentos de informática:** Visão geral sobre sistemas de suporte à decisão e inteligência de negócio; Fundamentos sobre análise de dados.
+3. **Conhecimentos bancários:** Dinâmica do Mercado: Operações no mercado interbancário; Mercado bancário: Operações de tesouraria, varejo bancário e recuperação de crédito; Taxas de juros de curto prazo e a curva de juros; taxas de juros nominais e  reais; Garantias do Sistema Financeiro Nacional: aval; fiança; penhor mercantil; alienação fiduciária; hipoteca; fianças bancárias; Autorregulação bancária.
+4. **Português:** Regência verbal e nominal.
+5. **Matemática financeira:** Sistemas deamortização - Sistema price; Sistema SAC.
+6. **Matemática:** Matrizes; Determinantes.
+7. **Atualidades do mercado financeiro:** Marketplace; Correspondentes bancários; Arranjos de pagamentos; Sistema de pagamentos instantâneos (PIX).

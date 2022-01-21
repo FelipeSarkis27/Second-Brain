@@ -1,0 +1,12 @@
+# Padrões de qualidade no Atendimento aos Clientes
+- Segredo do assunto: lembrar das minhas experiências como cliente.
+- Estima-se que 70% dos clientes abandonam uma empresa por conta da qualidade do atendimento.
+- O atendimento reflete a imagem da instituição, pois se um profissional te atender mal quem atendeu mal não foi ele, foi a empresa, impactando na imagem institucional da empresa.
+- Níveis de qualidade de atendimento: 
+	- Ruim (não atende as expectativas, o que o cliente está esperando e que foi "prometido")
+	- Bom (atende as expectativas, justamente o que o cliente está esperando, nada mais e nada menos)
+	- Excelente (supera as expectativas, é o que o cliente desejou, mas tem mais coisa ainda, ou é melhor do que o que ele pensava ou foi "prometido") 
+- Como ter o nível de qualidade de excelência com os 3 E's:
+	- Eficácia (objetivo): ser eficaz, é apenas atingir o objetivo completamente, fazer o que foi solicitade.
+	- Eficiência (Recurso, forma de fazer): seria o modo de fazer refletindo no tempo, ser eficiente, rápido, além de utilizar recursos da forma correta, sem desperdiçar, fazer mais com menos (que nem um carro turbo, mais forte com menos consumo).
+	- Efetividade (impacto): Seria o impacto que causa na vida do cliente, se aquele resultado realmente vai ajudar o cliente ou não vai fazer diferença em sua vida.

@@ -1,0 +1,26 @@
+1. **Vendas e Negociação:**
+- Resolução CMN nº 3.694/2009 e alterações;
+- Lei Brasileira de Inclusão da Pessoa com Deficiência (Estatuto da Pessoa com Deficiência) - Lei nº 13.146, de 06 de julho de 2015;
+- Código de Proteção e Defesa do Consumidor: Lei nº 8.078/1990 (versão atualizada).
+
+2. **Conhecimentos de Informática:**
+- Conceitos de educação à distância; 
+- Dar uma olhada no aplicativo Cisco Webex (mesma categoria do Microsoft Teams) e na rede social Linkedin.
+
+3. **Conhecimentos Bancários:**      
+- Legislação anticorrupção - Lei nº 12.846/2013 e Decreto nº 8.420/2015 e suas alterações; 32 min
+- Segurança cibernética - Resolução CMN nº 4.658, de 26 de abril de 2018; 32 min
+- Ética aplicada - ética, moral, valores e virtudes; noções de ética empresarial e profissional. A gestão da ética nas empresas públicas e privadas. Código de Ética do Banco do Brasil(disponível no sítio do BB na internet); 35 min
+- Política de Responsabilidade Socioambiental do Banco do Brasil (disponível no sítio do BB na internet). [https://api.mziq.com/mzfilemanager/v2/d/5760dff3-15e1-4962-9e81-322a0b3d0bbd/e175bd4e-3876-a85c-4ece-cbd086745b9b?origin=2](https://api.mziq.com/mzfilemanager/v2/d/5760dff3-15e1-4962-9e81-322a0b3d0bbd/e175bd4e-3876-a85c-4ece-cbd086745b9b?origin=2) 15 minutos
+
+4. **Português:**
+- Sintaxe da Oração e do Período; 
+- Emprego dos sinais de pontuação.
+- Colocação pronominal dos pronomes oblíquos átonos (próclise, mesóclise e ênclise).
+
+5. **Matemática Financeira:**
+- Sistemas de amortização - Sistema price; Sistema SAC.
+
+6. ** Atualidades do Mercado Financeiro:**
+- Segmentação e interações digitais; 
+- Transformação digital no Sistema Financeiro.

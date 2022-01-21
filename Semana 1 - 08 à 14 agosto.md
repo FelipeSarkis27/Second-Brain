@@ -1,0 +1,3 @@
+- Consertar a moto sábado a tarde
+- Ver Luppita e Augusto domingo de manhã
+- Sexta de manhã: comprar o soro de vader; passar no feira guay para comprar junta líquida para a pipoqueira e o cabo USB duplo pra ventoinha do pc. comprar água. 

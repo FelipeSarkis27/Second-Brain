@@ -1,0 +1,2 @@
+1. **Vendas e negociação:** [[Noções de estratégia empresarial - análise de mercado, forças competitivas, imagem institucional, identidade e posicionamento.]]
+2. **Conhecimentos de informática:** [[Noções básicas do ambiente Linux (SUSE SLES 15 SP2).]]

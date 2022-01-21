@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "59dd59cf04b9e592",
+    "type": "split",
+    "children": [
+      {
+        "id": "33b2fa27b68c6944",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "83ed460b87ce7eb4",
+    "type": "split",
+    "children": [
+      {
+        "id": "6b1bedb1e0c5dbac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1b6d8c8600326893",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "70aa0fd5943689e1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 297
+  },
+  "right": {
+    "id": "de84a31ffe8ca81e",
+    "type": "split",
+    "children": [
+      {
+        "id": "f5fb56039a42ae34",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c4b22c3d4408a3b3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "33b2fa27b68c6944",
+  "lastOpenFiles": [
+    "Moeda e política monetária - Políticas monetárias convencionais e não-convencionais (Quantitative Easing);Taxa SELIC e operações compromissadas;O debate sobre os depósitos remunerados dos bancos comerciais no Banco Central do Brasil..md",
+    "Ed. Artística.md",
+    "Moeda e política monetária.md",
+    "Pasted image 20210804213359.png",
+    "Estratégias de estudos.md",
+    "ENEM.md",
+    "The First Light.md",
+    "Concurso do banco do brasil.md",
+    "the firts.md",
+    "Aprendizagem e sustentabilidade organizacional; Características dos serviços - intangibilidade, inseparabilidade, variabilidade e perecibilidade; Gestão da qualidade em serviços..md"
+  ]
+}

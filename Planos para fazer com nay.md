@@ -1,0 +1,3 @@
+- Fazer um vídeo explicando como dar remédio a Vader e postar no Youtube.
+- trazer a travessa inox da casa de liliane pra por aas frutas e o bolo
+- 

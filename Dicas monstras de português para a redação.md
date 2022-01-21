@@ -1,0 +1,2 @@
+- Não se usa preposição antes do sujeito, então aquele negócio que o professor de redação do Mendal Daniel falava sobre do e de + o é quando isso precedo um sujeito. EX: Está na hora de o Governo fazer algo para impedir essa miséria. Não se pode colocar do Governo, pois Governo é um sujeito então a preposição deve se desvincular do artigo, pois artigo pode.
+- cuidado com a [[Funções Sintáticas| falta de paralelismo]]

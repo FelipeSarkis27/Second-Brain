@@ -7,8 +7,11 @@
         "id": "33b2fa27b68c6944",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Nova nota aleatória.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Nova nota aleatória.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,15 +88,15 @@
   },
   "active": "33b2fa27b68c6944",
   "lastOpenFiles": [
+    "Nova nota aleatória.md",
+    "The First Light.md",
+    "Matérias.md",
+    "ENEM.md",
     "Moeda e política monetária - Políticas monetárias convencionais e não-convencionais (Quantitative Easing);Taxa SELIC e operações compromissadas;O debate sobre os depósitos remunerados dos bancos comerciais no Banco Central do Brasil..md",
     "Ed. Artística.md",
     "Moeda e política monetária.md",
     "Pasted image 20210804213359.png",
     "Estratégias de estudos.md",
-    "ENEM.md",
-    "The First Light.md",
-    "Concurso do banco do brasil.md",
-    "the firts.md",
-    "Aprendizagem e sustentabilidade organizacional; Características dos serviços - intangibilidade, inseparabilidade, variabilidade e perecibilidade; Gestão da qualidade em serviços..md"
+    "Concurso do banco do brasil.md"
   ]
 }

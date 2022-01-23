@@ -1,7 +1,6 @@
 - Dividir meu cronograma em assuntos prioritários (com metas) de assuntos de revisão (caso dê tempo), assim eu focarei em meus exercícios e aplicação de conhecimento pré-adquirido e talvez buscado durante o processo de resolução (aprendendo da maneira correta, aplicando o conhecimento para fazer algo que eu não sabia). 
 - serão feitas avaliações semanais de desempenho e se estou dando conta de todas as matérias, não deixando nenhuma de lado, fazendo pequenas alterações na estratégia.
 - serão feitas avaliações mensais sobre minha estratégia de estudos, podendo realizar mudanças maiores na estratégia para o mês seguinte.
-- 2 ou 3 meses antes da prova fazer apenas questões e revisões, nada de assunto novo.
 - aulas somente do que eu tenho mais dificuldade, o processo de aprendizagem deve ser feito com esforço da resolução de questões e não de absorver conteúdo através de tópicos ou aulas, pois seria apenas o primeiro domínio do aprendizado.
 - ler textos nota mil do enem, anotar pontos que podem me ajudar em minhas redações, como concordâncias que não imaginava, repertório sociocultural, técnicas de introdução, coesão e coerência, etc. E o mais importante de tudo, praticar tudo o que eu anotar, para que eu não fique apenas no primeiro domínio da aprendizagem.
 - No primeiro momento eu deverei focar em aumentar o meu conhecimento (através da resolução de questões) e só após o segundo semestre de 2022 que eu devo focar no cronômetro.

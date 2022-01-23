@@ -13,7 +13,7 @@
 - Eu devo fazer questões de diversos assuntos divididos por dificuldade ao longo dos dias.
 - Então eu devo entender qual o nível da minha capacidade de resolver questões e ir aumentando a complexidade das questões de um determinado assunto ao longo da minha preparação, e não sair matando assuntos e passando para o próximo, deixando o anterior para trás.
 - Ver a resolução de questões praticamente nunca, sempre buscar conhecimento em qualquer lugar para resolver ela até conseguir, trabalhando em cima das dificuldades que surgirem ao longo das questões (é o momento mais importante e o que eu devo dedicar mais tempo).
-- Diminuir a quantidade de questões feitas e aumentar o t
+- Diminuir a quantidade de questões feitas e aumentar o tempo investido em minhas dificuldades. Com o tempo a quantidade de questões que irei fazer irá aumentar e o tempo gasto em cada um
 - Ciclo de investigação das questões:
 - ![[Pasted image 20211220222103.png]]
 - Pesquisar quais obras literárias são pertinentes para a prova do ENEM.

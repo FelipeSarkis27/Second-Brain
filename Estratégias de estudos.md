@@ -11,7 +11,7 @@
 - **A coisa mais importante na preparação é ser capaz de encontrar o problema que a questão traz e destrinchar esse problema.**
 - Não é toda questão que eu devo ser capaz de resolver hoje.
 - Eu devo fazer questões de diversos assuntos divididos por dificuldade ao longo dos dias.
-- Então eu devo entender qual o nível da minha capacidade de resolver questões e ir aumentando a complexidade das ques
+- Então eu devo entender qual o nível da minha capacidade de resolver questões e ir aumentando a complexidade das questões de um determinado assunto ao longo da minha preparação, e não sair matando assuntos e passando para o próximo, deixando o anterior para trás.
 - Ciclo de investigação das questões:
 - ![[Pasted image 20211220222103.png]]
 - Pesquisar quais obras literárias são pertinentes para a prova do ENEM.

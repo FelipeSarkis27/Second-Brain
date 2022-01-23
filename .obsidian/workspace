@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Estratégias de estudos.md",
+            "file": "Redação.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estratégias de estudos.md",
+                "file": "Redação.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "33b2fa27b68c6944",
   "lastOpenFiles": [
-    "Estratégias de estudos.md",
-    "ENEM.md",
+    "Redação.md",
     "Matérias.md",
+    "ENEM.md",
+    "Estratégias de estudos.md",
     "The First Light.md",
     "Matémática.md",
     "Física.md",
     "Química.md",
     "Biologia.md",
-    "the firts.md",
-    "1° Semana 05 - 11 setembro.md"
+    "the firts.md"
   ]
 }

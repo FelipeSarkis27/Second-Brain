@@ -32,4 +32,4 @@
 	- ![[Pasted image 20220120094157.png]]
 - CASO EM ALGUM MOMENTO EU ME PEGUE PENSANDO QUE ESTUDO MAS NÃO APRENDO DEVO ME CRITICAR E ME AVALIAR PARA SABER SE ESTOU APENAS REALIZANDO O PRIMEIRO DOMÍNIO OU SE ESTOU DANDO CONTINUIDADE COM OS DEMAIS PARA APRENDER.   
 - Revisão deve acontecer na primeira semana de estudos, pois ela deve consolidar a minha capacidade de resolver questões.
-- Revisão geral, aulões, não dão em nada, pois não consigo pincelar com precisão todos os assuntos, apenas alguns, então
+- Revisão geral, aulões, não dão em nada, pois não consigo pincelar com precisão todos os assuntos, apenas alguns, é como se eu usasse um pincel grosso para revisar tudo no final, quando que se eu tivesse usado um pincel fino durante todo o processo a chance de buracos na obra final seria mínima.

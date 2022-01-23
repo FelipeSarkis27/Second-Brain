@@ -7,7 +7,7 @@
 - Meus estudos devem ser em ordem crescente de complexidade, então devo fazer todas as questões fáceis sobre determinado assunto e ir aumentando até chegar nas difíceis. Lembrando que as fáceis são as questões que garantirão a minha vaga.
 - Tabela de prioridades de assuntos ENEM do site Tecconcursos: 
 - https://www.tecconcursos.com.br/blog/questoes-de-matematica-do-enem-organizadas-por-assunto/
-- Realizar uma pré-análise das questões de determinado assunto (perder algumas horas mesmo fazendo isso), essa análise consistirá em: identificar qual parte do assunto cai mais e o que é mais cobrado e estudar isso focadamente na prova, não estudando o assunto por extenso e sim focar naquilo que realmente é cobrado. Fazer revisões disso durante 2 ou 3 dias e após isso cacetar questões, não posso fazer as questões no mesmo dia do estudo, pois isto estará fresco em minha memória e eu teria um aproveitamento superior a 80% que seria errôneo. Após realizar as questões, anotar quais eu errei sobre o assunto e revisar o assunto com base nelas.
+- Tentar fazer as questões pelo máximo de tempo po´
 - Ciclo de investigação das questões:
 - ![[Pasted image 20211220222103.png]]
 - Pesquisar quais obras literárias são pertinentes para a prova do ENEM.

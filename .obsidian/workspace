@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Redação.md",
-            "mode": "source"
+            "file": "Matérias.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Redação.md",
+                "file": "Matérias.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,8 +88,8 @@
   },
   "active": "33b2fa27b68c6944",
   "lastOpenFiles": [
-    "Redação.md",
     "Matérias.md",
+    "Redação.md",
     "ENEM.md",
     "Estratégias de estudos.md",
     "The First Light.md",

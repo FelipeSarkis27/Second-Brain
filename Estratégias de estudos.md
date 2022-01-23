@@ -7,7 +7,10 @@
 - Meus estudos devem ser em ordem crescente de complexidade, então devo fazer todas as questões fáceis sobre determinado assunto e ir aumentando até chegar nas difíceis. Lembrando que as fáceis são as questões que garantirão a minha vaga.
 - Tabela de prioridades de assuntos ENEM do site Tecconcursos: 
 - https://www.tecconcursos.com.br/blog/questoes-de-matematica-do-enem-organizadas-por-assunto/
-- Tentar fazer as questões pelo máximo de tempo possível sem ir buscar informação pra conseguir fazer-las, pois o aprendizado acontece pelo esforço, quanto maior o esforço a gratificação de quando eu procurar conteúdo pra resolver também será maior, o que ligará o conteúdo aos meus sentimentos e se fixará mais facilmente em minha cabeça. **A coisa mais importante na preparação é ser capaz de encontrar o problema que a questão traz e destrinchar esse problema.**
+- Tentar fazer as questões pelo máximo de tempo possível sem ir buscar informação pra conseguir fazer-las, pois o aprendizado acontece pelo esforço, quanto maior o esforço a gratificação de quando eu procurar conteúdo pra resolver também será maior, o que ligará o conteúdo aos meus sentimentos e se fixará mais facilmente em minha cabeça.
+- **A coisa mais importante na preparação é ser capaz de encontrar o problema que a questão traz e destrinchar esse problema.**
+- Não é toda questão que eu devo ser capaz de resolver hoje.
+- Eu devo fazer questões de diversos assuntos divididos por dificul
 - Ciclo de investigação das questões:
 - ![[Pasted image 20211220222103.png]]
 - Pesquisar quais obras literárias são pertinentes para a prova do ENEM.

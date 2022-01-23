@@ -10,7 +10,8 @@
 - Tentar fazer as questões pelo máximo de tempo possível sem ir buscar informação pra conseguir fazer-las, pois o aprendizado acontece pelo esforço, quanto maior o esforço a gratificação de quando eu procurar conteúdo pra resolver também será maior, o que ligará o conteúdo aos meus sentimentos e se fixará mais facilmente em minha cabeça.
 - **A coisa mais importante na preparação é ser capaz de encontrar o problema que a questão traz e destrinchar esse problema.**
 - Não é toda questão que eu devo ser capaz de resolver hoje.
-- Eu devo fazer questões de diversos assuntos divididos por dificul
+- Eu devo fazer questões de diversos assuntos divididos por dificuldade ao longo dos dias.
+- Então eu devo entender qual o nível da minha capacidade de resolver questões e ir aumentando a complexidade das ques
 - Ciclo de investigação das questões:
 - ![[Pasted image 20211220222103.png]]
 - Pesquisar quais obras literárias são pertinentes para a prova do ENEM.

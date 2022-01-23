@@ -12,6 +12,7 @@
 - Não é toda questão que eu devo ser capaz de resolver hoje.
 - Eu devo fazer questões de diversos assuntos divididos por dificuldade ao longo dos dias.
 - Então eu devo entender qual o nível da minha capacidade de resolver questões e ir aumentando a complexidade das questões de um determinado assunto ao longo da minha preparação, e não sair matando assuntos e passando para o próximo, deixando o anterior para trás.
+- Ver a resolução de questões praticamente nunca, sempre buscar conhecimento em qualquer lugar para resolver ela até conseguir (é o momento mais importante,)
 - Ciclo de investigação das questões:
 - ![[Pasted image 20211220222103.png]]
 - Pesquisar quais obras literárias são pertinentes para a prova do ENEM.

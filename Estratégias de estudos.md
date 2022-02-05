@@ -38,4 +38,5 @@
 - Revisão deve acontecer desde a primeira semana de estudos, pois ela deve consolidar a minha capacidade de resolver questões.
 - Revisão geral, aulões, não dão em nada, pois não consigo pincelar com precisão todos os assuntos, apenas alguns, é como se eu usasse um pincel grosso para revisar tudo no final, quando que se eu tivesse usado um pincel fino durante todo o processo a chance de buracos na obra final seria mínima.
 - Eu devo separar questões fáceis, médias e difíceis para revisar durante o ano para garantir que a minha capacidade de resolver essas questões desse determinado assunto esteja Ok. Caso eu erre alguma questão, eu devo focar minha forças na revisão daquela parte específica do assunto e não do assunto por completo.
+- questões que eu errei devem voltar a cada 15 dias e, quando eu errar
 - Próximo tópico a ser estudado: estratégias para conseguir me manter no cronograma de estudos e não parar por desânimo ou fatores externos.

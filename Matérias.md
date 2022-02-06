@@ -25,3 +25,5 @@
 ### [[História]]
 ### [[Filosofia]]
 ### [[Sociologia]]
+
+# [[Conhecimentos gerais para estudar]]

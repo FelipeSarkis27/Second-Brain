@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Matérias.md",
+            "file": "Conhecimentos gerais para estudar.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matérias.md",
+                "file": "Conhecimentos gerais para estudar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "33b2fa27b68c6944",
   "lastOpenFiles": [
+    "Conhecimentos gerais para estudar.md",
     "Matérias.md",
     "ENEM.md",
     "The First Light.md",
@@ -96,7 +97,6 @@
     "Matémática.md",
     "Física.md",
     "Química.md",
-    "Biologia.md",
-    "the firts.md"
+    "Biologia.md"
   ]
 }

@@ -3,4 +3,4 @@
 - Estudar modernização agrícola e a revolução verde.
 - estudar média, mediana e desvio padrão.
 - estudar antropologia pessimista de maquiavel, que é próxima do concepção de hobbes.
-- pesquisar sobre a or 
+- pesquisar sobre a obra grande sertão: veredas, de guimarães rosa. 

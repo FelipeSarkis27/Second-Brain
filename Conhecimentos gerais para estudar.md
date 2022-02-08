@@ -5,3 +5,4 @@
 - estudar antropologia pessimista de maquiavel, que é próxima do concepção de hobbes.
 - pesquisar sobre a obra grande sertão: veredas, de guimarães rosa.
 - o que é medida profilática. 
+- A radiação que esquenta o ambiente é a infravermelha (maior comprimento de onda).

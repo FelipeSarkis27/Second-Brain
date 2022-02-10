@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Conhecimentos gerais para estudar.md",
-            "mode": "source"
+            "file": "Estratégias de estudos.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conhecimentos gerais para estudar.md",
+                "file": "Estratégias de estudos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,11 +88,11 @@
   },
   "active": "33b2fa27b68c6944",
   "lastOpenFiles": [
-    "Conhecimentos gerais para estudar.md",
-    "Matérias.md",
+    "Estratégias de estudos.md",
     "ENEM.md",
     "The First Light.md",
-    "Estratégias de estudos.md",
+    "Conhecimentos gerais para estudar.md",
+    "Matérias.md",
     "Redação.md",
     "Matémática.md",
     "Física.md",
